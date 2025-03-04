@@ -1,1 +1,1 @@
-# Task for VSU advanched code course
+# Tasks for VSU advanched code course
